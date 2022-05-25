@@ -1,1 +1,2 @@
 Hi all
+second line code in file.txt
