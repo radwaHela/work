@@ -1,2 +1,3 @@
 Hi all
 second line code in file.txt
+third line in file code
